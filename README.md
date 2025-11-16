@@ -1,7 +1,7 @@
 # html
 <!DOCTYPE html>
 <html>
-<head><title>About</title></head>
+<head><title>Hello Sir Cagula</title></head>
 <body>
 <h1>About Page</h1>
 <a href="index.html">Home</a> |
