@@ -3,7 +3,7 @@
 <html>
 <head><title>Hello Sir Cagula</title></head>
 <body>
-<h1>About Page</h1>
+<h1>Hello Sir Cagula!</h1>
 <a href="index.html">Home</a> |
 <a href="contact.html">Contact</a>
 </body>
