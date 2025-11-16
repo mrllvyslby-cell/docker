@@ -4,8 +4,8 @@
 <head><title>Hello Sir Cagula</title></head>
 <body>
 <h1>Hello Sir Cagula!</h1>
-<a href="index.html">Home</a> |
-<a href="contact.html">Contact</a>
+<a href="index.html"></a> |
+<a href="contact.html"></a>
 </body>
 </html>
 
